@@ -21,10 +21,10 @@
 	<class>com.uisrael.tiendaMoviles.modelo.entidades.DatosIngresoProducto</class>
 		
 		<properties>
-			<property name="javax.persistence.jdbc.url"	value="jdbc:postgresql://localhost:5432/tiendaMovilesProyecto" />
+			<property name="javax.persistence.jdbc.url"	value="jdbc:postgresql://localhost:5432/gestionTienda" />
 			<property name="javax.persistence.jdbc.user" value="postgres" />
 			<property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
-			<property name="javax.persistence.jdbc.password" value="admin" />
+			<property name="javax.persistence.jdbc.password" value="karina" />
 			<property name="javax.persistence.schema-generation.database.action" value="create" />
 		</properties>
 	</persistence-unit>
